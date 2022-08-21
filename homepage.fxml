@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.ticket.Homepage">
+    <children>
+        <Button fx:id="booktickets" layoutX="228.0" layoutY="105.0" mnemonicParsing="false" onAction="#booktickets" style="-fx-background-color: #bbf6c5;" text="BOOK TICKETS">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Button>
+        <Label fx:id="bookmyshow" alignment="CENTER" contentDisplay="CENTER" layoutX="81.0" layoutY="27.0" prefHeight="44.0" prefWidth="439.0" style="-fx-background-color: #f96a67;" text="BOOK MY SHOW" textFill="WHITE">
+            <font>
+                <Font size="36.0" />
+            </font>
+        </Label>
+        <Button fx:id="viewtickets" layoutX="227.0" layoutY="165.0" mnemonicParsing="false" onAction="#viewbooking" style="-fx-background-color: #bbf6c5 #bbf6c5;" text="VIEW BOOKING">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Button>
+        <Button fx:id="cancelbooking" layoutX="213.0" layoutY="224.0" mnemonicParsing="false" onAction="#cancelbooking" style="-fx-background-color: #bbf6c5 #bbf6c5;" text="CANCEL BOOKING">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Button>
+        <Button fx:id="logout" layoutX="251.0" layoutY="312.0" mnemonicParsing="false" onAction="#logout" style="-fx-background-color: #FA4A82;" text="LOG OUT" textFill="WHITE">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Button>
+    </children>
+</AnchorPane>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="641.0" prefWidth="779.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label alignment="CENTER" contentDisplay="CENTER" layoutX="113.0" layoutY="547.0" prefHeight="52.0" prefWidth="561.0" style="-fx-background-color: #D6EAF8#D6EAF8;" text="SCREEN ">
+            <font>
+                <Font size="24.0" />
+            </font>
+        </Label>
+        <Button layoutX="733.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a1" />
+        <Line endX="351.78167724609375" layoutX="405.0" layoutY="521.0" opacity="0.25" startX="-374.3273620605469" />
+        <Line endX="351.78167724609375" layoutX="401.0" layoutY="316.0" opacity="0.25" startX="-374.3273620605469" />
+        <Label layoutX="250.0" layoutY="29.0" text="Movie">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <Label layoutX="252.0" layoutY="119.0" text="Time">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <Label layoutX="249.0" layoutY="166.0" text="Seats">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <Button layoutX="692.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a2" />
+        <Button layoutX="646.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a3" />
+        <Button layoutX="601.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a4" />
+        <Button layoutX="554.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a5" />
+        <Button layoutX="506.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a6" />
+        <Button layoutX="460.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a7" />
+        <Button layoutX="412.0" layoutY="452.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="a8" />
+        <Button layoutX="339.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b1" />
+        <Button layoutX="294.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b2" />
+        <Button layoutX="252.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b3" />
+        <Button layoutX="207.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b4" />
+        <Button layoutX="160.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b5" />
+        <Button layoutX="112.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b6" />
+        <Button layoutX="66.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b7" />
+        <Button layoutX="18.0" layoutY="451.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="b8" />
+        <Button layoutX="733.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c1" />
+        <Button layoutX="692.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c2" />
+        <Button layoutX="646.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c3" />
+        <Button layoutX="601.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c4" />
+        <Button layoutX="554.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c5" />
+        <Button layoutX="506.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c6" />
+        <Button layoutX="460.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c7" />
+        <Button layoutX="412.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="c8" />
+        <Button layoutX="339.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d1" />
+        <Button layoutX="294.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d2" />
+        <Button layoutX="252.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d3" />
+        <Button layoutX="207.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d4" />
+        <Button layoutX="160.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d5" />
+        <Button layoutX="112.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d6" />
+        <Button layoutX="66.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d7" />
+        <Button layoutX="18.0" layoutY="411.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="d8" />
+        <Button layoutX="734.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e1" />
+        <Button layoutX="689.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e2" />
+        <Button layoutX="647.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e3" />
+        <Button layoutX="602.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e4" />
+        <Button layoutX="555.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e5" />
+        <Button layoutX="507.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e6" />
+        <Button layoutX="461.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e7" />
+        <Button layoutX="413.0" layoutY="362.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="e8" />
+        <Button layoutX="339.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f1" />
+        <Button layoutX="298.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="31.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f2" />
+        <Button layoutX="252.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f3" />
+        <Button layoutX="207.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f4" />
+        <Button layoutX="160.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f5" />
+        <Button layoutX="112.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f6" />
+        <Button layoutX="66.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f7" />
+        <Button layoutX="18.0" layoutY="363.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="35.0" style="-fx-background-color: #D2CAC8  #D2CAC8;" text="f8" />
+
+        <Button fx:id="booknow" layoutX="326.0" layoutY="226.0" mnemonicParsing="false" onAction="#booknow" text="Book Now">
+            <font>
+                <Font size="24.0" />
+            </font>
+        </Button>
+        <Label layoutX="252.0" layoutY="75.0" text="Date">
+            <font>
+                <Font size="18.0" />
+            </font>
+        </Label>
+        <DatePicker fx:id="date" layoutX="413.0" layoutY="74.0" />
+        <Button fx:id="back" layoutX="39.0" layoutY="28.0" mnemonicParsing="false" onAction="#goback" text="&lt;-  BACK" />
+        <ChoiceBox fx:id="movie" layoutX="422.0" layoutY="28.0" prefWidth="150.0" />
+        <ChoiceBox fx:id="time" layoutX="422.0" layoutY="118.0" prefWidth="150.0" />
+        <ChoiceBox fx:id="row" layoutX="401.0" layoutY="165.0" prefHeight="26.0" prefWidth="112.0" />
+        <ChoiceBox fx:id="column" layoutX="539.0" layoutY="166.0" prefHeight="26.0" prefWidth="112.0" />
+    </children>
+</AnchorPane>
